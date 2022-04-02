@@ -46,11 +46,11 @@ relativeUrls = true
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:#"
-        text = "conskeepers@gmail.com"
+        text = "coinskeepers@gmail.com"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "#"
-        text = "digmeta"
+        text = "digmeta.eth"
 
 
 
